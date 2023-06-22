@@ -1,0 +1,40 @@
+[
+  {
+    "id": "1",
+    "lastName": "Wick",
+    "firstName": "John",
+    "middleName": "",
+    "gender": "Male",
+    "dateOfBirth": "01/01/2000",
+    "mobileNumber": "666 666 6666",
+    "emailAddress": "john.wick@gmail.com",
+    "stageName": "Babayaga",
+    "type": "Solo",
+    "talent": "Assassination",
+    "visa": true,
+    "region": "Calabarzon",
+    "province": "Laguna",
+    "city": "Santa Rosa",
+    "barangay": "Market Area",
+    "address": "Zeramyr 3"
+  },
+  {
+    "id": "2",
+    "lastName": "Stark",
+    "firstName": "Tony",
+    "middleName": "",
+    "gender": "Male",
+    "dateOfBirth": "01/01/2000",
+    "mobileNumber": "666 666 6666",
+    "emailAddress": "tony.stark@gmail.com",
+    "groupName": "Avengers",
+    "type": "Group",
+    "talent": "Genius",
+    "region": "Calabarzon",
+    "visa": false,
+    "province": "California",
+    "city": "Santa Rosa",
+    "barangay": "Market Area",
+    "address": "Zavalla 3"
+  }
+]

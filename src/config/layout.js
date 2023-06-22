@@ -1,0 +1,8 @@
+export const colorPrimary = '#005CB9'
+export const colorBlue = '#FB630B'
+export const colorGreen = '#00CE7C'
+export const colorRed = '#FF0000'
+export const colorOrange = '#FF5100'
+export const colorGray = '#777777'
+export const colorLightGray = '#D1D1D1'
+export const colorPeach = '#F4EDF2'
